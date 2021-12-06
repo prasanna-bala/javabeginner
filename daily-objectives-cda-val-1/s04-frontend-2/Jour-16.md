@@ -6,10 +6,10 @@
 
 * [x] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
   * [x] Faire les 7 exercices et analyser ses erreurs
-* [ ] Comprendre le fonctionnement du `switch` (https://javascript.info/switch)
-  * [ ] Faire les 7 exercices et analyser ses erreurs
-* [ ] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics)
-    * [ ] Faire les 4 exercices
+* [X] Comprendre le fonctionnement du `switch` (https://javascript.info/switch)
+  * [X] Faire les 7 exercices et analyser ses erreurs
+* [X] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics)
+    * [X] Faire les 4 exercices
 * [ ] Comprendre le fonctionnement des fonctions expression (https://fr.javascript.info/function-expressions)
 * [ ] Comprendre le fonctionnement des Fonctions fléchées (https://fr.javascript.info/arrow-functions-basics)
 * [ ] S'assurer que toutes les notions dans la page `Javascript special` sont bien comprises.
